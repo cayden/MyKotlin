@@ -16,7 +16,8 @@ class MainActivity : AppCompatActivity() {
         btn_test.setOnClickListener {
             startActivity(Intent(MainActivity@this, TestActivity::class.java))
         }
-        
+
+
     }
 
 
