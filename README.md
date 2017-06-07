@@ -1,12 +1,12 @@
 # MyKotlin
 
 ###1、Kotlin介绍
-     [Kotlin](https://kotlinlang.org/)
-     Kotlin是一门基于JVM的编程语言，它正成长为Android开发中用于替代Java语言的继承者。Java是世界上使用最多的编程语言之一，当其他编程语言为更加便于开发者使用而不断进化时，Java并没有像预期那样及时跟进。
+   [Kotlin](https://kotlinlang.org/)
+     
+Kotlin是一门基于JVM的编程语言，它正成长为Android开发中用于替代Java语言的继承者。Java是世界上使用最多的编程语言之一，当其他编程语言为更加便于开发者使用而不断进化时，Java并没有像预期那样及时跟进。
+   Java缺失的很多特性在最新的修订版中逐渐覆盖到了，但Android开发者暂时还没能够使用它们。这就使得类似Kotlin这样的语言有了用武之地了：在旧的开发环境中使用现代语言的特性。
 
-　　Java缺失的很多特性在最新的修订版中逐渐覆盖到了，但Android开发者暂时还没能够使用它们。这就使得类似Kotlin这样的语言有了用武之地了：在旧的开发环境中使用现代语言的特性。
-
-　　Kotlin是什么？
+Kotlin是什么？
 
 　　Kotlin是由JetBrains创建的基于JVM的编程语言，IntelliJ正是JetBrains的杰作，而Android Studio是基于IntelliJ修改而来的。Kotlin是一门包含很多函数式编程思想的面向对象编程语言。
 
